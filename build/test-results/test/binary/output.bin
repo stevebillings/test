@@ -1,0 +1,82 @@
+
+results {
+  target {
+    type: RULE
+    rule {
+7      name: "//external:org_apache_commons_commons_io"
+      rule_class: "maven_jar"
+H      location: "/root/home/steve/examples/java-tutorial/WORKSPACE:6:1"
+      attribute {
+#        name: "generator_location"
+        type: STRING
+        string_value: ""
+$        explicitly_specified: false
+        nodep: false
+      }
+      attribute {
+#        name: "generator_function"
+        type: STRING
+        string_value: ""
+$        explicitly_specified: false
+        nodep: false
+      }
+      attribute {
+        name: "name"
+        type: STRING
+6        string_value: "org_apache_commons_commons_io"
+#        explicitly_specified: true
+        nodep: false
+      }
+      attribute {
+        name: "repository"
+        type: STRING
+        string_value: ""
+$        explicitly_specified: false
+        nodep: false
+      }
+      attribute {
+        name: "artifact"
+        type: STRING
+<        string_value: "org.apache.commons:commons-io:1.3.2"
+#        explicitly_specified: true
+        nodep: false
+      }
+      attribute {
+        name: "server"
+        type: STRING
+        string_value: ""
+$        explicitly_specified: false
+        nodep: false
+      }
+      attribute {
+        name: "generator_name"
+        type: STRING
+        string_value: ""
+$        explicitly_specified: false
+        nodep: false
+      }
+      attribute {
+        name: "sha1_src"
+        type: STRING
+        string_value: ""
+$        explicitly_specified: false
+        nodep: false
+      }
+      attribute {
+        name: "sha1"
+        type: STRING
+        string_value: ""
+$        explicitly_specified: false
+        nodep: false
+      }
+    }
+  }
+  configuration {
+1    checksum: "c4592abc3e3009cd244247c661481fda"
+  }
+}
+‚Read resultsTargetAttributeObject: {explicitly_specified=false, string_value=, name=generator_location, type=STRING, nodep=false}
+‚Read resultsTargetAttributeObject: {explicitly_specified=false, string_value=, name=generator_function, type=STRING, nodep=false}
+Read resultsTargetAttributeObject: {explicitly_specified=true, string_value=org_apache_commons_commons_io, name=name, type=STRING, nodep=false}
+zRead resultsTargetAttributeObject: {explicitly_specified=false, string_value=, name=repository, type=STRING, nodep=false}
+šRead resultsTargetAttributeObject: {explicitly_specified=true, string_value=org.apache.commons:commons-io:1.3.2, name=artifact, type=STRING, nodep=false}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../blackduck-common" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../blackduck-common-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../blackduck-docker-inspector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../blackduck-nuget-inspector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../common-gradle-plugin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../docker-inspector-runner" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hub-detect" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hub-imageinspector-lib" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hub-imageinspector-ws" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hub-spdx" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../integration-bdio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../integration-common" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../integration-gradle-inspector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../integration-nuget-inspector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../integration-pipeline-library" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../integration-rest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../phone-home-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../synopsys-detect" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../synopsys-detect-plugin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../synopsys-detect-scripts" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../synopsys-detect/detector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../test1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../uTutor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../uTutor/app" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3440" />
+    <option name="y" value="195" />
+    <option name="width" value="1920" />
+    <option name="height" value="885" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="blaze.view" />
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest.testGetObjectName">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testGetObjectName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="METHOD_NAME" value="testGetObjectName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.testGetObjectName" />
+        <item itemvalue="JUnit.AppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
